@@ -1,0 +1,6 @@
+---
+title: "Purpose"
+---
+
+The purpose of this website is to let you know that we can create our own website using the tool Rstudio and this is a part of my STAT assignment.
+---

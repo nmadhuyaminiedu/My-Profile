@@ -1,0 +1,29 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: profile.jpg 
+  links:
+    - icon: Linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/madhu-yamini-nainala-b1197b1a3 
+---
+My name is Madhu Yamini Nainala. You can address me as Madhu. 
+| Mail: mnainala@GMU.EDU
+
+## Education
+George Mason University | Fairfax, VA | MS in Data Analytics Engineering | Jan 2024 - Present
+
+BVC Insitute of technology and Science | AP, India | Bachelor of Engineering | Electronics and Communication Engineering | Jul 2017 - Aug 2021
+
+## Experience
+CapGemini | Senior Software Engineer | Oct 2021 - Dec 2023
+
+As an engineer, I developed and tested software applications using Mainframe technologies. Analyzing solutions and coding fixes for software problems plays a major part in my job along with coordinating with project managers to meet development timelines and plan testing.
+
+## Internship
+TEP Alumna | Centre for Innovation & Entrepreneurship CIE Apprenticeship 
+| Mar 2019 - Mar 2020 
+
+As a part of Technology Entrepreneurship Programme (TEP) offered by INDIAN SCHOOL OF BUSINESS (ISB), developed a front-end application as a group project that help customers to buy groceries online from agriculturist. 
+---
